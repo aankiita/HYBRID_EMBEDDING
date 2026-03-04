@@ -5,3 +5,5 @@ Pinecone is a vector database. It stores vectors that represent text or other da
 ServerlessSpec is just a configuration for creating a Pinecone index in the cloud.
 
 PineconeHybridSearchRetriever is a tool from LangChain that lets you search using both embeddings and text search together.
+
+Prepare BM25 keyword search for text.
