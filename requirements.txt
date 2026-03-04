@@ -1,0 +1,4 @@
+pinecone-text
+pinecone-notebooks
+langchain_community
+pinecone
