@@ -6,4 +6,5 @@ ServerlessSpec is just a configuration for creating a Pinecone index in the clou
 
 PineconeHybridSearchRetriever is a tool from LangChain that lets you search using both embeddings and text search together.
 
-Prepare BM25 keyword search for text.
+
+
