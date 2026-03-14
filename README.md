@@ -1,5 +1,5 @@
 # HYBRID_EMBEDDING
-(sementic search + Syntatic Search)
+(Sementic search + Syntatic Search)
 
 Pinecone is a vector database. It stores vectors that represent text or other data for searching efficiently.
 
